@@ -29,7 +29,7 @@ Ferramenta WinForms para **instalar** e **remover serviços Windows** via interf
 ## 🚀 Como Executar
 
 1. **Build do projeto**
-Abra com Visual Studio 2022/2024 (SDK-style project targeting `.NET 6` ou `.NET 8`)
+Abra com Visual Studio 2022/2024 (SDK-style project targeting `.NET 8` ou `.NET 9`)
 
 2. **Rodar como Administrador**
 Necessário para criar ou excluir serviços.
@@ -91,11 +91,13 @@ Gera o executável na pasta:
 
 ```
 .bin\Release
-et6.0-windows```
+et8.0-windows
+
 ou
-```
+
 .bin\Release
-et8.0-windows```
+et9.0-windows
+```
 
 ---
 
