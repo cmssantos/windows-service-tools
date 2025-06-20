@@ -90,11 +90,11 @@ dotnet build -c Release
 Gera o executável na pasta:
 
 ```
-.in\Release
+.bin\Release
 et6.0-windows```
 ou
 ```
-.in\Release
+.bin\Release
 et8.0-windows```
 
 ---
